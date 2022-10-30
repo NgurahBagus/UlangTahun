@@ -1,0 +1,20 @@
+body{
+    border-radius: 38px;
+background: #ecdfbb;
+box-shadow:  12px 12px 23px #c4b99b,
+             -12px -12px 23px #ffffdb;
+}
+.cardslide{
+    display: flex;
+    position: inherit;
+    margin-left: 470px;
+    width: 1200px;
+}
+.card{
+    margin: 0.5rem;
+    width: calc(100%/3);
+    text-align: center;
+}
+.card p{
+    text-align: justify;
+}
